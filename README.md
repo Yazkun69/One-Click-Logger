@@ -8,8 +8,8 @@ So basically this is how it works. You first download the html, slap it on to a 
 ## Usage
 So basically in the button you change it to whatever you want lol like u can do free bobux or click for nudes doesn't matter
 
-![image](https://user-images.githubusercontent.com/95067718/159818161-68945c32-9919-42fd-ae98-342180f13ba8.png)
-![image](https://user-images.githubusercontent.com/95067718/159818240-3c2da96d-4142-40bb-8b09-fc2278bb5a17.png)
+![image](https://user-images.githubusercontent.com/95067718/159844908-4830af9a-4a4f-4372-aae0-71c8ce319153.png)
+![image](https://user-images.githubusercontent.com/95067718/159844940-13a7fbf8-5134-4be7-b00b-75467aefdd2e.png)
 
 Then change your stub link in "STUBLINK" and then upload it to your site!
 
