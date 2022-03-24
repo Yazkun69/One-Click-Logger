@@ -11,6 +11,8 @@ So basically in the button you change it to whatever you want lol like u can do 
 ![image](https://user-images.githubusercontent.com/95067718/159818161-68945c32-9919-42fd-ae98-342180f13ba8.png)
 ![image](https://user-images.githubusercontent.com/95067718/159818240-3c2da96d-4142-40bb-8b09-fc2278bb5a17.png)
 
+Then change your stub link in "STUBLINK" and then upload it to your site!
+
 
 
 
